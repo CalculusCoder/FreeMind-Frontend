@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* background: rgb(184, 112, 255);
+  background: linear-gradient(
+    87deg,
+    rgba(184, 112, 255, 0.36458333333333337) 17%,
+    rgba(66, 255, 247, 0.4206057422969187) 77%
+  ); */
+  @apply dark:bg-indigo-950;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+/* body::before {
+  content: "";
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.5);
+  z-index: -1;
+  overflow-x: hidden;
+} */
+
+:root {
+  /* --bg: #242526;
+  --bg-accent: #484a4d;
+  --text-color: #dadce1;
+  --nav-size: 60px;
+  */
+  --border: 1px solid #474a4d;
+
+  --border-radius: 8px;
+  --speed: 500ms;
+}
+
+.typing-indicator {
+  animation: 2s bulge infinite ease-out;
+}
+
+.typing-indicator span {
+  height: 6px;
+  width: 6px;
+  float: left;
+  margin: 0 1px;
+  background-color: black;
+  display: block;
+  border-radius: 50%;
+  opacity: 0.4;
+}
+
+.typing-indicator span:nth-child(1) {
+  animation: 1s blink infinite 0.3333s;
+}
+.typing-indicator span:nth-child(2) {
+  animation: 1s blink infinite 0.6666s;
+}
+
+.typing-indicator span:nth-child(3) {
+  animation: 1s blink infinite 0.9999s;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 1;
+  }
+}
+
+@keyframes bulge {
+  50% {
+    transform: scale(1.05);
+  }
+}
+
+h3 {
+  font-size: x-large;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+p {
+  font-size: large;
+  margin-bottom: 35px;
+}
+
+ol {
+  list-style-type: decimal !important; /* Ensure numbers are shown */
+  margin-left: 2rem; /* Add some left margin to display numbers inside the container */
+}

@@ -1,0 +1,19 @@
+.bg {
+  /* background: rgb(222, 28, 255);
+  background: linear-gradient(
+    156deg,
+    rgba(222, 28, 255, 0.41220238095238093) 19%,
+    rgba(153, 110, 246, 1) 44%,
+    rgba(0, 255, 252, 1) 100%
+  ); */
+
+  /* background: rgb(206, 56, 255);
+  background: linear-gradient(
+    167deg,
+    rgba(206, 56, 255, 0.7455357142857143) 10%,
+    rgba(189, 56, 255, 1) 26%,
+    rgba(85, 82, 255, 1) 50%,
+    rgba(0, 255, 252, 0.896796218487395) 78%
+  ); */
+  background: linear-gradient(0.92deg, #015ae6 -35.62%, #ed05ff 130.74%);
+}

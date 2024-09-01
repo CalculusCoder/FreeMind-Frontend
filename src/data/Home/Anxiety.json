@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Generalized Anxiety Disorder (GAD)",
+    "description1": "Generalized Anxiety Disorder is a mental health condition characterized by persistent and excessive worry about a variety of different things, such as health, work, or relationships. The worry is often difficult to control and can cause significant distress and impairment in daily functioning. This is not to be confused with mild anxiety or occasional worrying over life events. People that suffer from GAD are plagued with constant worry and anxiety that lasts for several months.",
+    "symptoms": "GAD Symptoms",
+    "symptom1": "Some of the many GAD symptoms include restlessness, feeling on edge, or being easily fatigued.",
+    "symptom2": "Excessive and persistent worry about everyday events, activities, or responsibilities, even when there is no obvious reason to worry.",
+    "symptom3": "Difficulty controlling worry or stopping anxious thoughts. And many more symptoms.",
+    "description2": "FreeMind Recovery Members have access to a list of all anxiety disorder symptoms. Ranging from mental symptoms to physical."
+  },
+  {
+    "id": 2,
+    "title": "Panic Disorder",
+    "description1": "Panic Disorder is characterized by sudden and recurrent panic attacks, which are episodes of intense fear or discomfort that occur unexpectedly. Panic attacks are usually accompanied by a sudden and intense fear or discomfort, which may be accompanied by physical symptoms such as rapid heart rate, sweating, trembling, or shortness of breath. More mild panic attacks can sometimes be referred to as anxiety attacks. Panic attacks are usually more intense and can leave your nervous system in a state of severe stress and shock.",
+    "symptoms": "Panic Disorder Symptoms",
+    "symptom1": "A feeling of being out of control or of going crazy.",
+    "symptom2": "Persistent worry about having another panic attack, which may lead to avoidance of situations or activities that may trigger anxiety.",
+    "symptom3": "A strong urge to escape from the situation or environment in which the panic attack occurred. And many more symptoms.",
+    "description2": "Panic disorder was a difficult anxiety disorder that I once suffered from. I had all the symptoms listed above and many more. One of the worst feelings of having constant panic attacks is that your body is left in a state of shock. Sometimes this can last a couple of hours, and sometimes it can last days or weeks."
+  },
+  {
+    "id": 3,
+    "title": "Social Anxiety Disorder",
+    "description1": "Social Anxiety Disorder is a mental health condition characterized by intense fear or anxiety in social situations due to the fear of being judged, embarrassed, or scrutinized by others. People with SAD often experience significant distress and avoidance of social situations, which can interfere with daily activities and relationships.",
+    "symptoms": "Social Anxiety Symptoms",
+    "symptom1": "Difficulty making or keeping friends, or forming romantic relationships.",
+    "symptom2": "Distress or impairment in social, academic, or occupational functioning.",
+    "symptom3": "Physical symptoms such as blushing, sweating, trembling, or nausea in social situations."
+  },
+  {
+    "id": 4,
+    "title": "Phobias",
+    "description1": "Phobias are a type of anxiety disorder characterized by an intense, irrational, and persistent fear of a specific object or situation, such as flying, heights, or spiders. The fear is often disproportionate to the actual danger posed by the object or situation and can lead to avoidance behaviors that interfere with daily activities and relationships.",
+    "symptoms": "Phobias Symptoms",
+    "symptom1": "Intense fear or anxiety in response to a specific object or situation, which may be out of proportion to the actual threat posed by the object or situation.",
+    "symptom2": "Avoidance of the object or situation that triggers the fear or anxiety.",
+    "symptom3": " Preoccupation with the object or situation that triggers the fear or anxiety."
+  },
+  {
+    "id": 5,
+    "title": "Obsessive-Compulsive Disorder (OCD)",
+    "description1": "OCD (Obsessive-Compulsive Disorder) is a type of anxiety disorder characterized by the presence of disturbing intrusive and unwanted thoughts, images, or impulses that cause significant anxiety and compulsions. Compulsions are repetitive behaviors or mental acts that an individual feels compelled to perform to reduce the anxiety caused by disturbing intrusive thoughts. Notice the use of the word \"disturbing.\" OCD thoughts are usually more extreme, disturbing, and irrational than other anxiety disorder thoughts.",
+    "symptoms": "More on OCD",
+    "description2": "OCD is one of the most misunderstood anxiety disorders. Because of that, here at FreeMind, we have made a separate channel for OCD. If you or your loved one are suffering from OCD or think you might be, check out the OCD section."
+  },
+  {
+    "id": 6,
+    "title": "Agorophobia",
+    "description1": "Agoraphobia is a type of anxiety disorder characterized by intense fear or anxiety of being in situations or places from which escape might be difficult or embarrassing. People with Agoraphobia usually fear using public transportation, being outside alone, being stuck in closed spaces, and much more. This fear or anxiety often leads to avoidance behaviors that can significantly interfere with daily activities and relationships. In more severe cases, individuals might become housebound.",
+    "symptoms": "Agorophobia Symptoms",
+    "symptom1": "Feeling trapped or helpless in situations that trigger fear or anxiety.",
+    "symptom2": " Physical symptoms such as sweating, shaking, rapid heartbeat, and difficulty breathing when exposed to the object or situation.",
+    "symptom3": "Avoiding certain situations and locations that may trigger anxiety or panic attacks",
+    "symptom4": "Panic attacks"
+  },
+  {
+    "id": 7,
+    "title": "Important Note!",
+    "description1": "If you don't suffer from OCD or Depersonalization Derealization Disorder(DPDR), staying away from those channels is recommended. Reading up on it will not be beneficial for non-sufferers. OCD is characterized by extremely disturbing thoughts and mental or physical compulsions. DPDR is characterized by an extreme disconnection from oneself. Please take note before entering in those channels."
+  },
+  {
+    "id": 8,
+    "title": "Anxiety vs Anxiety Disorders",
+    "description1": "Now that we have listed some of the major types of anxiety disorders, it is important to distinguish the difference between mild anxiety and anxiety disorders. Mild anxiety is \"healthy\" anxiety that does NOT impair your life, reduce your quality of life, and leave you in constant fear or worry. In contrast, most anxiety disorders are characterized by: significant life impairment, reduced quality of life, severe fear that is constant and never ends, and much more.",
+    "description2": "If you are undiagnosed and believe that you relate more to anxiety disorders, please consult with your doctor or therapist to get diagnosed. It is important to note that many anxiety disorder symptoms overlap, and anxiety disorder online \"tests\" are not an accurate diagnosis. Our mission at FreeMind is not to diagnose you but to help you make a FULL recovery so you can get back to enjoying your life."
+  },
+  {
+    "id": 9,
+    "description1": " We hear the term thrown around all the time. \"I am feeling so anxious.\" \"I have test taking anxiety.\" \"I am feeling a bit anxious before this job interview.\" You see, mild anxiety is a common and normal human emotion that many people experience in response to stressors or challenging situations. It is a natural and adaptive response that can help people cope with stress and avoid danger. Having mild anxiety is usually never a cause for concern; it's the body's way of coping with danger. You probably aren't on our website experiencing mild anxiety; you are most likely here due to your anxiety getting out of control. If anxiety becomes excessive, persistent, or interferes with daily functioning, it may be indicative of an anxiety disorder. Let's explore what anxiety disorders are and the key differences between them and mild normal anxiety."
+  }
+]

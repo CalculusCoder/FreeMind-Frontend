@@ -1,0 +1,27 @@
+.btn {
+  width: 120px;
+  height: 50px;
+  background: #ffffff;
+  border-radius: 20px;
+  font-size: 15px;
+  line-height: 14px;
+  color: #015ae6;
+}
+
+.shadow {
+  animation: anime 1s infinite ease-in-out alternate;
+}
+
+@keyframes anime {
+  100% {
+    transform: translateY(20px);
+  }
+}
+
+.animation {
+  --animate-duration: 4s;
+}
+
+.animation2 {
+  --animate-duration: 1.8s;
+}

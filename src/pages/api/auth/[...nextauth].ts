@@ -10,6 +10,8 @@ if (!API_BASE_URL) {
   );
 }
 
+console.log(API_BASE_URL);
+
 const authOptions: NextAuthOptions = {
   session: {
     strategy: "jwt",

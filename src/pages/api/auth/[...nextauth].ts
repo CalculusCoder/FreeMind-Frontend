@@ -4,14 +4,6 @@ import CredentialsProvider from "next-auth/providers/credentials";
 import GoogleProvider from "next-auth/providers/google";
 import { API_BASE_URL } from "../../../../config";
 
-if (!API_BASE_URL) {
-  throw new Error(
-    "API_BASE_URL is not defined. Check your environment variables."
-  );
-}
-
-console.log(API_BASE_URL);
-
 const authOptions: NextAuthOptions = {
   session: {
     strategy: "jwt",
